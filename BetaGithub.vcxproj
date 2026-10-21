@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{0fa64198-392e-4460-b6c3-bd56178beccd}</ProjectGuid>
+    <ProjectGuid>{B19F7076-3823-1F0B-174C-D0E84D35E59B}</ProjectGuid>
     <RootNamespace>BetaGithub</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
@@ -144,6 +144,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Juego.h" />
+    <ClInclude Include="jugador.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
